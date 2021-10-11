@@ -1,0 +1,28 @@
+header a
+{
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 20px;
+    font-weight: bolder;
+    color: darkred;
+}
+h1
+{
+    color:darkgreen;
+    text-align: center;
+}
+body{
+    background-color:khaki;
+}
+td>img
+{
+    width: 300px;
+    height: 300px;
+    
+    margin-right: 30px;
+}
+ul>li
+{
+    text-align: center;
+    list-style-position: inside;
+}
