@@ -4,5 +4,5 @@ Root 5'tir. 5'in sağında 8, solunda 2 bulur.
 
                5
 	2	       8	
-     0     4	    7     9
-  1    3          6     
+     1     4	    7     9
+  0    3          6     
