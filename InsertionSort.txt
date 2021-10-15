@@ -1,0 +1,14 @@
+1-	[22,27,16,2,18,6] n
+
+	[2,27,16,22,18,6] n-1
+
+	[2,6,16,22,18,27] n-3
+
+	[2,6,16,18,22,27]n-4
+2-O(n^2)
+
+3-Ortalama durum: O(n^2)
+En kötü durum: O(n^2)
+En iyi durum: O(n)
+
+4-Worst case, dizinin sonuda olduğundan
